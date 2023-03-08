@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.virtualstaffing.net	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1678260134|bhfGPhnvKGHC
+www.virtualstaffing.net	TRUE	/	FALSE	1999999999	hs	-1202764683
+www.virtualstaffing.net	TRUE	/	FALSE	1999999999	svSession	f45132a1b28e1a143a09b991b5e42122c896eafe6752d1417a1ff7a1d90c30ba651920cb04eae9c3e719b0fa1bb560c71e60994d53964e647acf431e4f798bcd8c9427fb1f78323cc4f9cd2ede04b1f3190d8a37b4ef8c5ae31d4744ac5e2ce2652380c55227daad3cfa87f4037ca24fd739c57ba98d7a5e707a2cff5fd63fdfc04a031a64d11d34a56207754d2b4700
+www.virtualstaffing.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.virtualstaffing.net	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
